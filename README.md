@@ -1,4 +1,6 @@
-<h1>Hi, I'm Lianne! 
+<h1>Hi there, I'm Lianne! 
+
+<h5>I am currently a technology consultant who's looking to deepen her technical skills! Here, you'll find some projects that I've worked on quite a few years back when I was first introduced into the world of data analytics. You'll also find some new projects I'm newly working on as I dive back into the world of data and all its wonders. Cheers!
 
 <h2>👨‍💻 R Projects:</h2>
 
