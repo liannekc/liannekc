@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 R Projects:</h2>
 
+- [Atlanta Temperatures](https://github.com/liannekc/AtlantaSummers_R)
+  
+
 
 <h2>👨‍💻 Python Projects:</h2>
 
