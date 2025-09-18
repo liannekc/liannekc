@@ -24,6 +24,6 @@
   - [Medium Article](https://medium.com/@bridge2/student-performance-across-massachusetts-public-schools-5ae34e11d06f)
   - [Repository](https://github.com/liannekc/PythonEDA_PublicSchools)
 - <b>Exploratory Data Analysis: Stroke Prediction</b>
-  - [Medium Article]([https://medium.com/@bridge2/student-performance-across-massachusetts-public-schools-5ae34e11d06f](https://medium.com/@bridge2/what-factors-cause-strokes-f25a6017cd09))
-  - [Repository]([https://github.com/liannekc/PythonEDA_PublicSchools](https://github.com/liannekc/PythonEDA_StrokePrediction))
+  - [Medium Article](https://medium.com/@bridge2/student-performance-across-massachusetts-public-schools-5ae34e11d06f](https://medium.com/@bridge2/what-factors-cause-strokes-f25a6017cd09)
+  - [Repository](https://github.com/liannekc/PythonEDA_PublicSchools](https://github.com/liannekc/PythonEDA_StrokePrediction)
     
