@@ -4,7 +4,8 @@
 
 <h2>👨‍💻 R Projects:</h2>
 
-- [Atlanta Temperatures](https://github.com/liannekc/AtlantaSummers_R)
+-  [Exponential Smoothing - Atlanta Temperatures](https://github.com/liannekc/AtlantaSummers_R)
+-  [SVM - Credit Card Applications](https://github.com/liannekc/SVM_CreditCard_R/tree/main)
   
 
 
